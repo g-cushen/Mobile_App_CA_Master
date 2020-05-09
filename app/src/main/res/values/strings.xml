@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALLCHECK HEALTHCARE</string>
+    <string name="hint_placemarkTitle">Content Topic</string>
+    <string name="starttime">Topic Description</string>
+    <string name="button_addPlacemark">Add Topic</string>
+    <string name="menu_addPlacemark">Add</string>
+    <string name="menu_cancelPlacemark">Cancel</string>
+    <string name="enter_placemark_title"> Enter Content Heading </string>
+    <string name="save_placemark"> Save Content </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_placemark_image">Select Content  Image</string>
+    <string name="change_placemark_image">Change Content image</string>
+    <string name="button_location">FIND YOUR CLINIC</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_deletePlacemark">Delete</string>
+
+
+</resources>
